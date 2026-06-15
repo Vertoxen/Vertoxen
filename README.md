@@ -50,6 +50,7 @@ I enjoy working on automation, backend logic, data analysis, and improving proje
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
+
 ---
 
 ## Featured Projects
