@@ -3,7 +3,7 @@
 # Hi, I'm Yamin Ahmed 👋  
 ### Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Discord+Bot+Developer;Learning+Data+Analytics;Building+useful+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer;Building+Python+Projects;Learning+Data+Analytics;Improving+Every+Day" />
 
 </div>
 
@@ -11,7 +11,8 @@
 
 ## About Me
 
-I’m a developer focused on building practical Python projects and database-driven applications.  
+I’m a Python developer focused on building practical projects and database-driven applications.
+
 I enjoy working on automation, backend logic, data analysis, and improving projects step by step.
 
 - Currently improving my Python and database skills  
@@ -26,10 +27,17 @@ I enjoy working on automation, backend logic, data analysis, and improving proje
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -37,16 +45,16 @@ I enjoy working on automation, backend logic, data analysis, and improving proje
 
 ## Featured Projects
 
-### PythonEcoBot1
+### PythonEcoBot1  
 Small Discord bot project with database interactions.
 
-### capitalEmpireBot
+### capitalEmpireBot  
 Python bot project focused on economy-style features.
 
-### AngelicBot
+### AngelicBot  
 Discord bot template built with Python.
 
-### Mean-Variance-Standard-Deviation-Calculator
+### Mean-Variance-Standard-Deviation-Calculator  
 A Python project for calculating mean, variance, and standard deviation.
 
 ---
@@ -71,6 +79,15 @@ A Python project for calculating mean, variance, and standard deviation.
 
 </div>
 
+---
+
+## Current Goals
+
+- Build more complete Python projects  
+- Improve backend structure and database design  
+- Learn more about data analytics  
+- Make my GitHub repositories more professional  
+- Contribute more consistently  
 
 ---
 
