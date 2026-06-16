@@ -53,22 +53,6 @@ I enjoy working on automation, backend logic, data analysis, and improving proje
 
 ---
 
-## Featured Projects
-
-### PythonEcoBot1  
-Small Discord bot project with database interactions.
-
-### capitalEmpireBot  
-Python bot project focused on economy-style features.
-
-### AngelicBot  
-Discord bot template built with Python.
-
-### Mean-Variance-Standard-Deviation-Calculator  
-A Python project for calculating mean, variance, and standard deviation.
-
----
-
 ## GitHub Stats
 
 <div align="center">
