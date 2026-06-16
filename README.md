@@ -75,16 +75,6 @@ I enjoy working on automation, backend logic, data analysis, and improving proje
 
 ---
 
-## Current Goals
-
-- Build more complete Python projects  
-- Improve backend structure and database design  
-- Learn more about data analytics  
-- Make my GitHub repositories more professional  
-- Contribute more consistently  
-
----
-
 ## Contact
 
 <div align="center">
