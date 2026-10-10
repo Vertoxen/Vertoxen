@@ -1,0 +1,1 @@
+![Vertoxen](./assets/vertoxen.svg)
