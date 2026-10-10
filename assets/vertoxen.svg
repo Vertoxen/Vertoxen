@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-label="Vertoxen">
+  <title>Vertoxen</title>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071126"/>
+      <stop offset="0.51" stop-color="#0A1731"/>
+      <stop offset="1" stop-color="#07132B"/>
+    </linearGradient>
+    <radialGradient id="cool-light" cx="78%" cy="48%" r="65%">
+      <stop offset="0" stop-color="#173E83" stop-opacity=".64"/>
+      <stop offset=".46" stop-color="#0F2C66" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#071126" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="white-ink" x1="0" y1="0" x2=".2" y2="1">
+      <stop offset="0" stop-color="#F6FBFF"/>
+      <stop offset=".56" stop-color="#DBEEFF"/>
+      <stop offset="1" stop-color="#C4E1F7"/>
+    </linearGradient>
+    <linearGradient id="electric-ink" x1="0" y1="0" x2="1" y2=".9">
+      <stop offset="0" stop-color="#57BCFF"/>
+      <stop offset=".5" stop-color="#2993FF"/>
+      <stop offset="1" stop-color="#8CE6FF"/>
+    </linearGradient>
+    <linearGradient id="passing-light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#BCF0FF" stop-opacity="0"/>
+      <stop offset=".34" stop-color="#C7F1FF" stop-opacity=".05"/>
+      <stop offset=".53" stop-color="#FFFFFF" stop-opacity=".62"/>
+      <stop offset=".7" stop-color="#A6E8FF" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#75ADFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3D9BFF" stop-opacity="0"/>
+      <stop offset=".50" stop-color="#4AB7FF" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#3D9BFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="vanish" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A8D9FF" stop-opacity=".23"/>
+      <stop offset=".76" stop-color="#A8D9FF" stop-opacity=".17"/>
+      <stop offset="1" stop-color="#A8D9FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="technical-grid" width="80" height="80" patternUnits="userSpaceOnUse" x="-5" y="-18">
+      <path d="M80 0H0V80" fill="none" stroke="#B5D9FF" stroke-opacity=".10" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.4" fill="#7BBEFF" fill-opacity=".22"/>
+    </pattern>
+    <clipPath id="word-mask" clipPathUnits="userSpaceOnUse">
+      <g transform="matrix(0.139 0 0 -0.139 155 355)">
+        <path d="M517 0H985L1484 1490H1095L894 835C848 676 802 509 754 332C704 509 656 676 607 835L398 1490H5ZM2096 -24C2363 -24 2576 125 2615 338H2306C2281 268 2209 224 2108 224C1972 224 1892 309 1888 443H2623V536C2623 856 2404 1080 2087 1080C1774 1080 1552 850 1552 528C1552 206 1772 -24 2096 -24ZM1890 649C1905 760 1980 826 2096 826C2211 826 2287 760 2302 649ZM2609 0H2953V541C2953 691 3038 777 3161 777C3211 777 3272 775 3297 774V1058C3269 1059 3240 1060 3203 1060C3062 1060 2983 1004 2945 870H2942V1056H2609ZM4092 1056H3875V1344H3530V1056H3350V790H3530V297C3530 92 3644 0 3897 0H4092V266H3973C3896 266 3875 287 3875 355V790H4092ZM4798 -24C5129 -24 5353 193 5353 528C5353 861 5129 1080 4798 1080C4467 1080 4242 861 4242 528C4242 193 4467 -24 4798 -24ZM4798 250C4677 250 4591 349 4591 528C4591 706 4678 806 4798 806C4918 806 5005 706 5005 528C5005 349 4918 250 4798 250ZM5409 0H5782L5865 131C5903 196 5936 254 5969 312C6002 254 6035 196 6072 131L6152 0H6525L6159 547L6509 1056H6143L6068 933C6033 873 6003 818 5973 764C5944 818 5914 873 5881 933L5808 1056H5437L5781 538ZM7086 -24C7353 -24 7566 125 7605 338H7296C7271 268 7199 224 7098 224C6962 224 6882 309 6878 443H7613V536C7613 856 7394 1080 7077 1080C6764 1080 6542 850 6542 528C6542 206 6762 -24 7086 -24ZM6880 649C6895 760 6970 826 7086 826C7201 826 7277 760 7292 649ZM8053 574C8053 718 8123 785 8232 785C8341 785 8404 717 8404 592V0H8748V664C8748 924 8614 1079 8385 1079C8226 1079 8119 1006 8049 885V1056H7709V0H8053Z"/>
+      </g>
+    </clipPath>
+    <clipPath id="frame"><rect width="1600" height="540"/></clipPath>
+  </defs>
+
+  <!-- Precise, dark, self-contained canvas: legible in every GitHub theme. -->
+  <rect width="1600" height="540" fill="url(#canvas)"/>
+  <rect width="1600" height="540" fill="url(#cool-light)"/>
+  <rect width="1600" height="540" fill="url(#technical-grid)"/>
+
+  <!-- Broad editorial fields establish asymmetry without competing with the wordmark. -->
+  <path d="M1080 0H1600V540H1354Z" fill="#2669CB" fill-opacity=".035"/>
+  <path d="M0 0H82V540H0Z" fill="#030916" fill-opacity=".46"/>
+  <path d="M80 0V540" stroke="#82BAFF" stroke-opacity=".18"/>
+  <path d="M154 58V480" stroke="#8DB8E9" stroke-opacity=".22" stroke-width="1"/>
+
+  <!-- Slow sweep across the drafting grid; no external scripts or styles. -->
+  <rect x="-320" y="0" width="260" height="540" fill="url(#beam)" opacity=".16">
+    <animate attributeName="x" values="-320;1700;1700" keyTimes="0;.65;1" dur="19s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Cropped orbit and engineered diagonals, visually balanced to the far right. -->
+  <g clip-path="url(#frame)" fill="none">
+    <circle cx="1424" cy="281" r="223" stroke="#62B4FF" stroke-opacity=".15" stroke-width="1.3"/>
+    <circle cx="1424" cy="281" r="185" stroke="#77C5FF" stroke-opacity=".12" stroke-width="1"/>
+    <circle cx="1424" cy="281" r="247" stroke="#3A8DDF" stroke-opacity=".25" stroke-width="2" stroke-dasharray="130 150 15 120 70 1067">
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 1424 281" to="360 1424 281" dur="100s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M1276 76L1528 328M1340 38L1590 288" stroke="#76BEFF" stroke-opacity=".15" stroke-width="1"/>
+    <path d="M1273 438L1585 126" stroke="#3697EE" stroke-opacity=".12" stroke-width="1"/>
+  </g>
+
+  <!-- Alignment grammar and a very restrained luminous anchor. -->
+  <rect x="155" y="100" width="79" height="6" fill="#369CFF"/>
+  <rect x="237" y="100" width="27" height="6" fill="#BCEEFF" fill-opacity=".9"/>
+  <line x1="278" y1="103" x2="1448" y2="103" stroke="url(#vanish)" stroke-width="1"/>
+  <rect x="1446" y="96" width="5" height="15" fill="#7ED5FF" fill-opacity=".8">
+    <animate attributeName="opacity" values=".55;1;.55" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M1447 140V405M1447 140H1500M1447 405H1519" fill="none" stroke="#97CAFF" stroke-opacity=".25" stroke-width="1"/>
+  <path d="M1485 156V201" stroke="#409EF3" stroke-opacity=".64" stroke-width="3"/>
+
+  <!-- Inter Display ExtraBold converted to exact vector outlines for stable typography. -->
+  <g transform="matrix(0.139 0 0 -0.139 155 355)">
+    <path d="M517 0H985L1484 1490H1095L894 835C848 676 802 509 754 332C704 509 656 676 607 835L398 1490H5ZM2096 -24C2363 -24 2576 125 2615 338H2306C2281 268 2209 224 2108 224C1972 224 1892 309 1888 443H2623V536C2623 856 2404 1080 2087 1080C1774 1080 1552 850 1552 528C1552 206 1772 -24 2096 -24ZM1890 649C1905 760 1980 826 2096 826C2211 826 2287 760 2302 649ZM2609 0H2953V541C2953 691 3038 777 3161 777C3211 777 3272 775 3297 774V1058C3269 1059 3240 1060 3203 1060C3062 1060 2983 1004 2945 870H2942V1056H2609ZM4092 1056H3875V1344H3530V1056H3350V790H3530V297C3530 92 3644 0 3897 0H4092V266H3973C3896 266 3875 287 3875 355V790H4092ZM4798 -24C5129 -24 5353 193 5353 528C5353 861 5129 1080 4798 1080C4467 1080 4242 861 4242 528C4242 193 4467 -24 4798 -24ZM4798 250C4677 250 4591 349 4591 528C4591 706 4678 806 4798 806C4918 806 5005 706 5005 528C5005 349 4918 250 4798 250ZM7086 -24C7353 -24 7566 125 7605 338H7296C7271 268 7199 224 7098 224C6962 224 6882 309 6878 443H7613V536C7613 856 7394 1080 7077 1080C6764 1080 6542 850 6542 528C6542 206 6762 -24 7086 -24ZM6880 649C6895 760 6970 826 7086 826C7201 826 7277 760 7292 649ZM8053 574C8053 718 8123 785 8232 785C8341 785 8404 717 8404 592V0H8748V664C8748 924 8614 1079 8385 1079C8226 1079 8119 1006 8049 885V1056H7709V0H8053Z" fill="url(#white-ink)"/>
+    <path d="M5409 0H5782L5865 131C5903 196 5936 254 5969 312C6002 254 6035 196 6072 131L6152 0H6525L6159 547L6509 1056H6143L6068 933C6033 873 6003 818 5973 764C5944 818 5914 873 5881 933L5808 1056H5437L5781 538Z" fill="url(#electric-ink)"/>
+  </g>
+
+  <!-- The soft typographic specular scan sits strictly inside the letterforms. -->
+  <g clip-path="url(#word-mask)">
+    <rect x="-340" y="106" width="340" height="286" fill="url(#passing-light)" opacity=".78">
+      <animate attributeName="x" values="-340;1640;1640" keyTimes="0;.64;1" dur="11.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- One continuous Swiss rule, with a paced, gliding electric-blue index. -->
+  <line x1="155" y1="405" x2="1447" y2="405" stroke="#C0E8FF" stroke-opacity=".37" stroke-width="1"/>
+  <rect x="155" y="402" width="84" height="3" fill="#439FFF"/>
+  <rect x="155" y="403" width="56" height="2" fill="#A3E7FF" opacity=".85">
+    <animate attributeName="x" values="155;1391;1391" keyTimes="0;.56;1" dur="15s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".3;.92;.0;.0" keyTimes="0;.4;.58;1" dur="15s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Calibrated lower-right registration marks. -->
+  <g stroke="#99CCFF" stroke-opacity=".3" fill="none" stroke-width="1">
+    <path d="M155 448V468H175"/>
+    <path d="M1427 448H1447V468"/>
+    <path d="M1251 463H1327M1350 463H1447"/>
+  </g>
+  <g fill="#429FF3" fill-opacity=".58">
+    <rect x="155" y="460" width="4" height="4"/>
+    <rect x="1318" y="459" width="4" height="4"/>
+    <rect x="1342" y="459" width="4" height="4"/>
+  </g>
+</svg>
